@@ -42,3 +42,7 @@ task package-publish
 
 exit
 ```
+
+## Testing mirroring
+
+This is to test mirroring from Forgejo git server
